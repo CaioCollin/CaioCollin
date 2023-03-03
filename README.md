@@ -18,5 +18,8 @@
   <a href = "caiomequita627@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-mesquita-071a1425a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  
+  ![Caio Collin GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCollin&show_icons=true&theme=dracula)
+  
 
 </div>
