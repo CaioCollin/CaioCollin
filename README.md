@@ -1,4 +1,4 @@
-## Oii eu sou Caio Collin!
+## Oii eu sou Caio Collin! 👻
 
 
 <div style="display: inline_block"><br>
@@ -19,6 +19,5 @@
   <a href="https://www.linkedin.com/in/caio-mesquita-071a1425a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://api.whatsapp.com/send?phone=5511989031943&text=." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
- 
-  
+
 </div>
