@@ -22,6 +22,7 @@
 </div><br/>
   
   Apaixonado por Tecnologia e inteligência artificial.
+  ##
   
   ### Se quiser conhecer um pouco de mim :
   oiii prazer em conhecê-lo , tenho 18 anos e estudo Ciência da Computação a um ano , está sendo uma jornada incrível a onde fiz diversas amizades e diversos    conhecimentos. 
