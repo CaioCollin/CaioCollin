@@ -7,6 +7,7 @@
 </div><br/>
 
 ![Caio Collin GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCollin&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCollin)](https://github.com/anuraghazra/github-readme-stats)
  
  
 ## Tecnologias que eu uso no meu dia a dia
@@ -21,6 +22,15 @@
 </div><br/>
   
   Apaixonado por Tecnologia e inteligência artificial.
+  
+  ### Se quiser conhecer um pouco de mim :
+  oiii prazer em conhecê-lo , tenho 18 anos e estudo Ciência da Computação a um ano , está sendo uma jornada incrível a onde fiz diversas amizades e diversos conhecimentos.
+  Atualmete estou focado em Java , desenrolo muito bem com php , mas estudo também C++ , javascript e CSS.
+  Meus hobbies em horas livre são tocar minha Flauta transversal , passear ,  ir a igreja ... 
+  
+  Em busca do primiero Estágio.
+  obrigado !!
+  
   
   
   
