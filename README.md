@@ -20,17 +20,63 @@
   <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="logo-C++" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br/>
+
+
+
+  Conhecimentos em:
+  
+ 📚 java 
+ 
+ 📚 PHP
+ 
+ 📚 C++
+ 
+ 📚 javascript
+ 
+ 📚 HTML5| CSS3 
+ 
+  </br>
+  
+  Ferramentas:
+  
+ 🛠️ Apache NetBeans
+ 
+ 🛠️ Visual Studio Code
+ 
+ 🛠️ Dev-C++
+ 
+ 🛠️ XAMPP
+ 
+ </br>
+ 
+ Outros: 
+ 
+ 🖥️ linkedin : https://www.linkedin.com/in/caio-mesquita-071a1425a/
+ 
+____________________________________________________________
+
+
+👤Sobre mim :
+Oii, me chamo Caio Mesquita tenho 18 anos.
+Cursando Ciência da Computação na Universidade Braz Cubas  / 3° Semestre .
+
+Inicio da faculdade : FEV/2022    -     término: DEZ/2025
+
+
+📞 Contato:
+
+📧 caiomesquita627@gmail.com
+  
   
   Apaixonado por Tecnologia e inteligência artificial.
   ##
   
   ### Se quiser conhecer um pouco de mim :
-  oiii prazer em conhecê-lo , tenho 18 anos e estudo Ciência da Computação a um ano , está sendo uma jornada incrível a onde fiz diversas amizades e diversos    conhecimentos. 
-  Atualmete estou focado em Java , desenrolo muito bem com php , mas estudo também C++ , javascript e CSS.
-  Meus hobbies em horas livre são tocar minha Flauta transversal , passear ,  ir a igreja ... <br/>
+  Esee um ano de faculdade está sendo uma jornada incrível a onde fiz diversas amizades e diversos conhecimentos.
+  Atualmete estou focado em Java , PHP  e C++ , mas tem conhecimentos em  javascript , html e CSS.
+  Meus hobbies em horas livre são tocar minha Flauta transversal , passear, jogar bola  e  ir a igreja ... <br/>
   
-  Em busca do primiero Estágio.
-  Obrigado !!
+  Obrigado , um abraço !!
   
   
   
