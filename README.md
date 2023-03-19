@@ -7,7 +7,7 @@
 </div><br/>
 
 ![Caio Collin GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCollin&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCollin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCollin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
  
 ## Tecnologias que eu uso no meu dia a dia
