@@ -72,8 +72,11 @@ Inicio da faculdade : FEV/2022    -     término: DEZ/2025
   ##
   
   ### Se quiser conhecer um pouco de mim :
+  Estudante de Ciência da Computação.
+  Conhecimento em desenvolvimento Java, PHP, C++ e MySQL.
+  Sólidos conhecimentos em desenvolvimento de aplicações Java, ferramentas de versionamento Git, Apache NetBeans , Dev-C++ , XAMPP.
+  Atualmente focando meu tempo livre em melhorar meus conhecimentos em bibliotecas Java e PHP.
   Esee um ano de faculdade está sendo uma jornada incrível a onde fiz diversas amizades e diversos conhecimentos.
-  Atualmete estou focado em Java , PHP  e C++ , mas tem conhecimentos em  javascript , html e CSS.
   Meus hobbies em horas livre são tocar minha Flauta transversal , passear, jogar bola  e  ir a igreja ... <br/>
   
   Obrigado , um abraço !!
