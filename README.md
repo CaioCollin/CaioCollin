@@ -21,31 +21,33 @@
   <img align="center" alt="logo-C++" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br/>
 
+**Linguagens de Programação:**
+- 💻 Java
+- 🌐 PHP
+- 🖥️ C++
+- 🚀 JavaScript
+- 🌐 HTML5 | CSS3
 
+**Frameworks**
+- 🅰️ Angular
+- 🚀 Spring Boot
 
-  Conhecimentos em:
-  
- 📚 java 
- 
- 📚 PHP
- 
- 📚 C++
- 
- 📚 javascript
- 
- 📚 HTML5| CSS3 
- 
-  </br>
-  
-  Ferramentas:
-  
- 🛠️ Apache NetBeans
- 
- 🛠️ Visual Studio Code
- 
- 🛠️ Dev-C++
- 
- 🛠️ XAMPP
+- **Metodologias Ágeis:**
+- 🌀 Scrum
+
+**Ferramenta de Teste e Documentação de APIs:**
+- 🧩 Postman
+
+**Sistema de Controle de Versão:**
+- 📂 Git
+
+**IDEs (Ambientes de Desenvolvimento Integrado):**
+- 💻 Spring Tool Suite | Eclipse
+- 🧩 Apache NetBeans
+- 📦 Visual Studio Code
+- 🖥️ Dev-C++
+- ⚙️ XAMPP
+
  
  </br>
  
