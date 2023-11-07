@@ -21,6 +21,9 @@
   <img align="center" alt="logo-C++" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br/>
 
+**Idiomas:**
+- 🌐 Inglês (CNA - Início em agosto/2023)
+
 **Linguagens de Programação:**
 - 💻 Java
 - 🌐 PHP
@@ -32,7 +35,11 @@
 - 🅰️ Angular
 - 🚀 Spring Boot
 
-- **Metodologias Ágeis:**
+**Bancos de Dados:**
+- 🗃️ MySQL (Relacional)
+- 🍃 MongoDB (Não Relacional)
+
+**Metodologias Ágeis:**
 - 🌀 Scrum
 
 **Ferramenta de Teste e Documentação de APIs:**
@@ -41,7 +48,7 @@
 **Sistema de Controle de Versão:**
 - 📂 Git
 
-**IDEs (Ambientes de Desenvolvimento Integrado):**
+**IDES:**
 - 💻 Spring Tool Suite | Eclipse
 - 🧩 Apache NetBeans
 - 📦 Visual Studio Code
@@ -58,10 +65,6 @@
 ____________________________________________________________
 
 
-👤Sobre mim :
-Oii, me chamo Caio Mesquita tenho 18 anos.
-Cursando Ciência da Computação na Universidade Braz Cubas  / 3° Semestre .
-
 Inicio da faculdade : FEV/2022    -     término: DEZ/2025
 
 
@@ -70,10 +73,11 @@ Inicio da faculdade : FEV/2022    -     término: DEZ/2025
 📧 caiomesquita627@gmail.com
   
   
-  Apaixonado por Tecnologia e inteligência artificial.
-  ##
+ ### 🔥 Apaixonado por Criação, Inovações e Cibersegurança 🔒
+
   
-  ### Se quiser conhecer um pouco de mim :
+  
+  ### 👤Sobre mim :
   Estudante de Ciência da Computação.
   Conhecimento em desenvolvimento Java, PHP, C++ e MySQL.
   Sólidos conhecimentos em desenvolvimento de aplicações Java, ferramentas de versionamento Git, Apache NetBeans , Dev-C++ , XAMPP.
@@ -81,7 +85,7 @@ Inicio da faculdade : FEV/2022    -     término: DEZ/2025
   Esee um ano de faculdade está sendo uma jornada incrível a onde fiz diversas amizades e diversos conhecimentos.
   Meus hobbies em horas livre são tocar minha Flauta transversal , passear, jogar bola  e  ir a igreja ... <br/>
   
-  Obrigado , um abraço !!
+  Obrigado.
   
   
   
