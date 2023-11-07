@@ -9,17 +9,22 @@
 ![Caio Collin GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCollin&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCollin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
- 
-## Tecnologias que eu uso no meu dia a dia
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="logo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="logo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="logo-C++" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div><br/>
+<br>
+<p>
+  <img alt="logo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="logo-spring-boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img alt="logo-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> 
+  <img alt="logo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> 
+  <img alt="logo-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="logo-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+
+
+</p>
 
 **Idiomas:**
 - 🌐 Inglês (CNA - Início em agosto/2023)
@@ -78,14 +83,12 @@ Inicio da faculdade : FEV/2022    -     término: DEZ/2025
   
   
   ### 👤Sobre mim :
-  Estudante de Ciência da Computação.
-  Conhecimento em desenvolvimento Java, PHP, C++ e MySQL.
-  Sólidos conhecimentos em desenvolvimento de aplicações Java, ferramentas de versionamento Git, Apache NetBeans , Dev-C++ , XAMPP.
-  Atualmente focando meu tempo livre em melhorar meus conhecimentos em bibliotecas Java e PHP.
-  Esee um ano de faculdade está sendo uma jornada incrível a onde fiz diversas amizades e diversos conhecimentos.
-  Meus hobbies em horas livre são tocar minha Flauta transversal , passear, jogar bola  e  ir a igreja ... <br/>
   
-  Obrigado.
+ 🎓 Sou estudante de Ciência da Computação, e minha jornada acadêmica tem sido uma experiência incrível, cheia de aprendizado e amizades.
+
+🛠️ Além do meu interesse em tecnologia, sou um músico na CCB (Congregação Cristã no Brasil), e minha paixão é tocar a flauta transversal. Fora dos estudos e do trabalho, você me encontrará em campos de futebol, piscinas, e praticando Muay Thai. Sou um entusiasta da vida ao ar livre e amo passar tempo com a família e amigos.
+
+🚶‍♂️ Adoro passeios simples e a simplicidade da vida. Minhas horas livres são preenchidas com música, esportes, família, amigos e, claro, a alegria de estar na igreja.
   
   
   
