@@ -32,6 +32,7 @@
 **Linguagens de Programação:**
 - 💻 Java
 - 🌐 PHP
+- ⚙️ Python
 - 🖥️ C++
 - 🚀 JavaScript
 - 🌐 HTML5 | CSS3
