@@ -39,6 +39,7 @@
 **Frameworks**
 - 🅰️ Angular
 - 🚀 Spring Boot
+- 🚀  Laravel
 
 **Bancos de Dados:**
 - 🗃️ MySQL (Relacional)
